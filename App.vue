@@ -1,6 +1,5 @@
 <script setup>
-
-import Body from "@/components/Body.vue";
+  import Body from "@/components/Background.vue";
 </script>
 
 <template>
